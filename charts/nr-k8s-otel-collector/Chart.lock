@@ -1,9 +1,9 @@
 dependencies:
 - name: common-library
   repository: https://helm-charts.newrelic.com
-  version: 2.2.0
+  version: 2.3.2
 - name: kube-state-metrics
   repository: https://prometheus-community.github.io/helm-charts
   version: 6.1.5
-digest: sha256:a76de1a84dff59d20bcaaefe92597c96cebdabdba979aa7afdafd6066ef62f2f
-generated: "2026-05-12T15:30:37.923216-07:00"
+digest: sha256:72cbcb2fb33504d61afc2532104d42d4ab03dae2078bdb8c0e48d65663a548e3
+generated: "2026-06-25T08:36:59.483746004Z"
